@@ -264,7 +264,11 @@ p {
   padding-bottom: 50px;
 }
 
-/* サービス */
+/* ポートフォリオ */
+.portfolio h1 {
+  letter-spacing: 5px;
+}
+
 #portfolio h2 {
   margin-bottom: 100px;
 }
