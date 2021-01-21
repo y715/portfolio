@@ -13,8 +13,8 @@ section {
 h1 {
   font-family: "Pangolin", cursive;
   margin-top: 0;
-  font-size: 70px;
-  letter-spacing: 15px;
+  font-size: 60px;
+  letter-spacing: 2px;
   color: #444444;
 }
 
@@ -265,9 +265,6 @@ p {
 }
 
 /* ポートフォリオ */
-.portfolio h1 {
-  letter-spacing: 5px;
-}
 
 #portfolio h2 {
   margin-bottom: 100px;
